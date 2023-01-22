@@ -1,0 +1,7 @@
+D:\DomashnaRabota\ListsAndArraysSorting\3\bin\Debug\3.exe.config
+D:\DomashnaRabota\ListsAndArraysSorting\3\bin\Debug\3.exe
+D:\DomashnaRabota\ListsAndArraysSorting\3\bin\Debug\3.pdb
+D:\DomashnaRabota\ListsAndArraysSorting\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\DomashnaRabota\ListsAndArraysSorting\3\obj\Debug\3.exe
+D:\DomashnaRabota\ListsAndArraysSorting\3\obj\Debug\3.pdb
+D:\DomashnaRabota\ListsAndArraysSorting\3\obj\Debug\3.csproj.AssemblyReference.cache
